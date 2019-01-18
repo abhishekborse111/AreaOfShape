@@ -1,0 +1,9 @@
+public class AreaOfShape{
+
+public static float circle(float radius){
+
+//Calculation
+
+}
+
+}
